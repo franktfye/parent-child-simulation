@@ -12,7 +12,7 @@ Details can be found in the below paper:
 ```
 
 ## Run
-
+The simulation settings can be changed directly in the script, including personalities, number of conversation exchanges, output file names etc.
 To run the scripts, simply download them and execute them in a python environment. Each .py file is corresonding to one model setting. You can change the personality of the agent (e.g., parenting style) in the script.
 We tested them in python 3.11.
 For the Ollama server, you need to download Ollama <a href="https://ollama.com/" target="_blank"> from their website </a> and pull the model to your computer to run the script locally. 
@@ -24,3 +24,4 @@ ollama serve
 ```
 
 For the GPT-4 model, we accessed API via AzureOpenAI. You need to setup the api key and endpoint in system environmental variables before you execute these scripts. You can also change it to official OpenAI API if you like.
+Make sure you deployed your models and put the correct model names in the scripts.
