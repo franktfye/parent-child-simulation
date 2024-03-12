@@ -10,7 +10,14 @@ Further details can be found in the paper referenced below:
 ## Citation
 
 ```
-@article{}
+@misc{ye2024simulating,
+      title={Simulating Family Conversations using LLMs: Demonstration of Parenting Styles}, 
+      author={Frank Tian-fang Ye and Xiaozi Gao},
+      year={2024},
+      eprint={2403.06144},
+      archivePrefix={arXiv},
+      primaryClass={cs.CY}
+}
 ```
 
 ## Run
