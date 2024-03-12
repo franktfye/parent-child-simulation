@@ -13,7 +13,7 @@ Further details can be found in the paper referenced below:
 @misc{ye2024simulating,
       title={Simulating Family Conversations using LLMs: Demonstration of Parenting Styles}, 
       author={Frank Tian-fang Ye and Xiaozi Gao},
-     doi={https://doi.org/10.48550/arXiv.2403.06144},
+      doi={https://doi.org/10.48550/arXiv.2403.06144},
       year={2024},
       eprint={2403.06144},
       archivePrefix={arXiv},
